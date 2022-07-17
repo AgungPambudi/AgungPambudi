@@ -18,7 +18,7 @@
 -   [IBM: Machine Learning with Python](https://www.credly.com/badges/ee4b842e-dbdb-4923-bf28-2b1b3dab3a76)
 -   [IBM: Data Science Methodologies](https://www.credly.com/badges/2f384d3f-a94e-43a5-900d-b1b8aa1c5d50)
 -   [HackerRank: SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/37b6fc0d9ecc)
--   [HackerRank: SQL Python Certificate](https://www.hackerrank.com/certificates/09db474565b6)
+-   [HackerRank: Python Certificate](https://www.hackerrank.com/certificates/09db474565b6)
 -   [IBM: IBM Blockchain Essentials V2](https://www.credly.com/badges/a1b3d8e6-5dad-46f2-a502-ddea6908bae7)
 
 
