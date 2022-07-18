@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Agung Pambudi, a **Data Enthusiast** (specializing in **Data Mining**) and a [**Freelancer**](https://www.upwork.com/freelancers/~0145ed9bc3331474bc) on _Upwork_.
+🎓 I am Agung Pambudi, a **Data Enthusiast** (specializing in **Data Mining**) and a [**Data Analyst**](https://www.upwork.com/freelancers/~0145ed9bc3331474bc) on _Upwork_.
 
-👨‍💻 I am really enthusiastic about learning technology.
+👨‍💻 I am really enthusiastic about learning new technology.
 
 
 ✈️ I love **traveling**.
