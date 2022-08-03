@@ -24,6 +24,10 @@
 -   [IBM: IBM Blockchain Essentials V2](https://www.credly.com/badges/a1b3d8e6-5dad-46f2-a502-ddea6908bae7)
 
 
+## 🏆 Kaggle Notebooks (Data Science & Machine Learning Code)
+-   [Association Rule Mining Algorithms: FP-Growth](https://www.kaggle.com/code/agungpambudi/agung-pambudi-18311052-fp-growth-algorithm-skripsi)
+
+
 ## 🛠️ Skills
 
 ### Languages
