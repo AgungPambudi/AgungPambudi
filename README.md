@@ -14,15 +14,18 @@
 
 -   [Google: Google Data Studio Completion Certificate](https://analytics.google.com/analytics/academy/certificate/_jVvLoeQSC2HRtdRhXPp9A)
 -   [HackerRank: Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/0434ed3c0d14)
+-   [HackerRank: Rest API (Intermediate) Certificate](https://www.hackerrank.com/certificates/b96643c2d6e9)
+-   [Tableau: Analyze and Model Data to Create Insights](https://www.credly.com/badges/b3b2ab98-6205-4dbe-a8c4-21a07137409b)
 -   [HackerRank: SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/37b6fc0d9ecc)
 -   [IBM: Python for Data Science](https://www.credly.com/badges/f06df08d-b579-4204-bcb9-5a6970b363b3)
 -   [Google: Data Analysis with R Programming](https://www.coursera.org/verify/EVL7KF3BYX6M)
+-   [Google: Analytics Individual Qualification](https://www.credential.net/84d3ef09-b353-4ce8-a137-74b21163a055?username=agungpambudi)
 -   [Tableau: Explore and Analyze Data](https://www.credly.com/badges/477b796e-2603-4ebb-a3f2-103dd508d79b)
 -   [IBM: Machine Learning with Python](https://www.credly.com/badges/ee4b842e-dbdb-4923-bf28-2b1b3dab3a76)
 -   [IBM: Data Science Methodologies](https://www.credly.com/badges/2f384d3f-a94e-43a5-900d-b1b8aa1c5d50)
 -   [HackerRank: Python Certificate](https://www.hackerrank.com/certificates/09db474565b6)
 -   [IBM: IBM Blockchain Essentials V2](https://www.credly.com/badges/a1b3d8e6-5dad-46f2-a502-ddea6908bae7)
-
+-   [IBM: IBM Machine Learning Essentials](https://www.credly.com/badges/e0c5f861-1abb-41f9-a647-67e78f17c644)
 
 ## 🏆 Kaggle Notebooks (Data Science & Machine Learning Code)
 -   [Association Rule Mining Algorithms: FP-Growth](https://www.kaggle.com/code/agungpambudi/agung-pambudi-18311052-fp-growth-algorithm-skripsi)
