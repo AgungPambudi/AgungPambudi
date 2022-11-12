@@ -28,6 +28,7 @@
 -   [IBM: IBM Machine Learning Essentials](https://www.credly.com/badges/e0c5f861-1abb-41f9-a647-67e78f17c644)
 
 ## 🏆 Kaggle Notebooks (Data Science & Machine Learning Code)
+-   [Hyperparameter Tuning XGBoost using Ray Tune](https://www.kaggle.com/code/agungpambudi/hyperparameter-tuning-xgboost-using-ray-tune)
 -   [Association Rule Mining Algorithms: FP-Growth](https://www.kaggle.com/code/agungpambudi/agung-pambudi-18311052-fp-growth-algorithm-skripsi)
 
 
