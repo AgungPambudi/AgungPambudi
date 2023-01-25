@@ -38,7 +38,7 @@
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgungPambudi&show_icons=true&locale=en&layout=compact" alt="agungpambudi" /></p>
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AgungPambudi&show_icons=true&locale=en&layout=compact" alt="agungpambudi" /></p>
 
 ### Backend as a Service (BaaS)
 
