@@ -35,7 +35,7 @@
 -   [Association Rule Mining Algorithms: FP-Growth](https://www.kaggle.com/code/agungpambudi/agung-pambudi-18311052-fp-growth-algorithm-skripsi)
 
 <p align="left">
-  <a href="https://www.credly.com/badges/b3b2ab98-6205-4dbe-a8c4-21a07137409b" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/35a3581b-8458-4499-a0c8-1906cde0acfd/create-insights-2048.png" width="14%" height="10%" alt="Analyze and Model Data to Create Insights"/></a>
+  <a href="https://www.credly.com/badges/b3b2ab98-6205-4dbe-a8c4-21a07137409b" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/35a3581b-8458-4499-a0c8-1906cde0acfd/create-insights-2048.png" width="12%" height="15%" alt="Analyze and Model Data to Create Insights"/></a>
   <a href="https://partner.cloudskillsboost.google/public_profiles/866421d7-967a-4660-bca8-3b3660455d79/badges/2932316" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="14%" height="14%" alt="Engineer Data in Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/2840969" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/1ci818XAe76Kpiml7URY1sWz7tGKWm3%2BmgtTp6CisA4%3D" width="14%" height="14%" alt="Automating Infrastructure on Google Cloud with Terraform"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/2876896" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CeyFjlHWRMpm3EEk%2FHoaWkoeg24wDx9xAodYUOenIKw%3D" width="14%" height="14%" alt="Optimize Costs for Google Kubernetes Engine"/></a>
