@@ -12,11 +12,12 @@
 
 ## 📝 Achievements & Certifications
 
--   [Google: Google Data Studio Completion Certificate](https://analytics.google.com/analytics/academy/certificate/_jVvLoeQSC2HRtdRhXPp9A)
+-   [Google: Google IT Automation](https://www.credly.com/badges/274b5374-d397-428d-abb8-f1a34470f34c)
 -   [HackerRank: Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/0434ed3c0d14)
 -   [HackerRank: Rest API (Intermediate) Certificate](https://www.hackerrank.com/certificates/b96643c2d6e9)
 -   [Tableau: Analyze and Model Data to Create Insights](https://www.credly.com/badges/b3b2ab98-6205-4dbe-a8c4-21a07137409b)
 -   [HackerRank: SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/37b6fc0d9ecc)
+-   [Google: Google Data Studio Completion Certificate](https://analytics.google.com/analytics/academy/certificate/_jVvLoeQSC2HRtdRhXPp9A)
 -   [IBM: Python for Data Science](https://www.credly.com/badges/f06df08d-b579-4204-bcb9-5a6970b363b3)
 -   [Google: Data Analysis with R Programming](https://www.coursera.org/verify/EVL7KF3BYX6M)
 -   [Google: Analytics Individual Qualification](https://www.credential.net/84d3ef09-b353-4ce8-a137-74b21163a055?username=agungpambudi)
@@ -27,7 +28,7 @@
 -   [IBM: IBM Blockchain Essentials V2](https://www.credly.com/badges/a1b3d8e6-5dad-46f2-a502-ddea6908bae7)
 -   [IBM: IBM Machine Learning Essentials](https://www.credly.com/badges/e0c5f861-1abb-41f9-a647-67e78f17c644)
 
-<p align="left"> <a href="https://www.credly.com/badges/bebffc12-e261-42a5-ade2-ae52c68305d8" target="_blank"> <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/28feecbb-a143-4c3e-9e32-647990d5ce00" target="_blank"> <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/49408826-4ceb-4bbb-86d4-e412085d1500" target="_blank"> <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/a1b3d8e6-5dad-46f2-a502-ddea6908bae7" target="_blank"> <img src="https://images.credly.com/size/340x340/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png" alt="IBM Machine Learning Essentials" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/b3b2ab98-6205-4dbe-a8c4-21a07137409b" target="_blank"> <img src="https://images.credly.com/size/340x340/images/35a3581b-8458-4499-a0c8-1906cde0acfd/create-insights-2048.png" alt="Analyze and Model Data to Create Insights" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.credly.com/badges/bebffc12-e261-42a5-ade2-ae52c68305d8" target="_blank"> <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/28feecbb-a143-4c3e-9e32-647990d5ce00" target="_blank"> <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/49408826-4ceb-4bbb-86d4-e412085d1500" target="_blank"> <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/a1b3d8e6-5dad-46f2-a502-ddea6908bae7" target="_blank"> <img src="https://images.credly.com/size/340x340/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png" alt="IBM Machine Learning Essentials" width="40" height="40"/> </a> </p>
 
 ## 🏆 Kaggle Notebooks (Data Science & Machine Learning Code)
 -   [Hyperparameter Tuning XGBoost using Ray Tune](https://www.kaggle.com/code/agungpambudi/hyperparameter-tuning-xgboost-using-ray-tune)
@@ -60,6 +61,7 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![gcloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🔗 Links
 
