@@ -20,7 +20,7 @@
 -   [Google: Google Data Studio Completion Certificate](https://analytics.google.com/analytics/academy/certificate/_jVvLoeQSC2HRtdRhXPp9A)
 -   [IBM: Python for Data Science](https://www.credly.com/badges/f06df08d-b579-4204-bcb9-5a6970b363b3)
 -   [Google: Data Analysis with R Programming](https://www.coursera.org/verify/EVL7KF3BYX6M)
--   [Google: Analytics Individual Qualification](https://www.credential.net/84d3ef09-b353-4ce8-a137-74b21163a055?username=agungpambudi)
+-   [Google: Analytics Individual Qualification](https://www.credential.net/26e3e207-9f29-4930-859b-d416f2958b64)
 -   [Tableau: Explore and Analyze Data](https://www.credly.com/badges/477b796e-2603-4ebb-a3f2-103dd508d79b)
 -   [IBM: Machine Learning with Python](https://www.credly.com/badges/ee4b842e-dbdb-4923-bf28-2b1b3dab3a76)
 -   [IBM: Data Science Methodologies](https://www.credly.com/badges/2f384d3f-a94e-43a5-900d-b1b8aa1c5d50)
