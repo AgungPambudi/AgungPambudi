@@ -1,5 +1,7 @@
+
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
 ## 🚀 About Me
 
 🎓 I am Agung Pambudi, a **Data Enthusiast** (specializing in **Data Mining**) and a [**Data Analyst**](https://www.upwork.com/freelancers/~0145ed9bc3331474bc) on _Upwork_.
