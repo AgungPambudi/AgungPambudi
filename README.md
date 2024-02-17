@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Agung Pambudi, a **Data Enthusiast** (specializing in **Data Mining**) and a [**Data Analyst**](https://www.upwork.com/freelancers/~0145ed9bc3331474bc) on _Upwork_.
+🎓 I am Agung Pambudi, a dedicated lifelong learner with an insatiable curiosity, particularly in the realm of data science. My journey is fueled by the belief that knowledge is a never-ending adventure, and I am committed to exploring the vast landscape of data science to unearth its endless possibilities. I developed a love for understanding how things work, and as technology continues to evolve, so does my enthusiasm for learning. The dynamic and ever-changing field of data science has captured my attention, as it combines my passion for problem-solving with the power of data-driven insights. 
 
-👨‍💻 I am really enthusiastic about learning new technology.
+👨‍💻 My commitment to lifelong learning is not just a personal endeavor; it's a philosophy that shapes my approach to problem-solving and decision-making. I see every project as a chance to acquire new knowledge and refine my skills, pushing the boundaries of what I can achieve. As a lifelong learner, I am not only driven by the desire to understand the complexities of data science but also by the potential to make a positive impact. I believe in harnessing the power of data to solve real-world problems.
 
 
 ✈️ I love **traveling**.
