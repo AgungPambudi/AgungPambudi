@@ -26,7 +26,7 @@
 
 
 <p align="left">
-  <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/3395538" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/i6aDp5Dmx3e5ZhI%2FaKGydhA3AZeVLmLSv3vPLZ6%2FF9A%3D" width="14%" height="14%" alt="Analyze and Model Data to Create Insights"/></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/3395538" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/i6aDp5Dmx3e5ZhI%2FaKGydhA3AZeVLmLSv3vPLZ6%2FF9A%3D" width="11%" height="11%" alt="Analyze and Model Data to Create Insights"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/4867207" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/KxYnffjiyPuh7QOen04Gtn09Y4B1Cb3YlWkwOYzCObc%3D" width="14%" height="14%" alt="Engineer Data in Google Cloud"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/2840969" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/1ci818XAe76Kpiml7URY1sWz7tGKWm3%2BmgtTp6CisA4%3D" width="14%" height="14%" alt="Automating Infrastructure on Google Cloud with Terraform"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/2876896" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CeyFjlHWRMpm3EEk%2FHoaWkoeg24wDx9xAodYUOenIKw%3D" width="14%" height="14%" alt="Optimize Costs for Google Kubernetes Engine"/></a>
