@@ -23,6 +23,7 @@
 
 ## 🏆 Kaggle Notebooks
 -   [Optimizing Python Code: Time Performance Analysis](https://www.kaggle.com/code/agungpambudi/optimizing-python-code-time-performance-analysis)
+-   [Summarization](https://www.kaggle.com/code/agungpambudi/youtube-video-summarization-embeddings-gradio-ui)
 
 
 <p align="left">
