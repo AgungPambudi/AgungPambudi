@@ -32,7 +32,6 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/2876896" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/CeyFjlHWRMpm3EEk%2FHoaWkoeg24wDx9xAodYUOenIKw%3D" width="14%" height="14%" alt="Optimize Costs for Google Kubernetes Engine"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/3145267" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/8jACSR%2BqgI3p2yem69CxNAyXukexHsSAI5j2W71N%2Blc%3D" width="14%" height="14%" alt="Create ML Models with BigQuery ML"/></a>
   <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/5473804" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D" width="14%" height="14%" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud"/></a> 
-  <a href="https://www.cloudskillsboost.google/public_profiles/805a5707-f8b3-4ee6-9c98-ed8ef4515f3d/badges/2889172" target="_blank" rel="noopener noreferrer"><img src="https://cdn.qwiklabs.com/RGYLtQXngVN9TmGhbWvmyCTYdky3m3T9SZr7alsMcLg%3D" width="14%" height="14%" alt="Implement DevOps in Google Cloud"/></a>
 </p>
 
 ## 🛠️ Skills
