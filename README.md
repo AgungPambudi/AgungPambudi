@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://www.credly.com/badges/bebffc12-e261-42a5-ade2-ae52c68305d8" target="_blank"> <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="59" height="59"/> </a> <a href="https://www.credly.com/badges/28feecbb-a143-4c3e-9e32-647990d5ce00" target="_blank"> <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="59" height="59"/> </a> <a href="https://www.credly.com/badges/49408826-4ceb-4bbb-86d4-e412085d1500" target="_blank"> <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="59" height="59"/> </a> <a href="https://www.credly.com/badges/a1b3d8e6-5dad-46f2-a502-ddea6908bae7" target="_blank"> <img src="https://images.credly.com/size/340x340/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png" alt="IBM Machine Learning Essentials" width="59" height="59"/> </a> </p>
 
-## 🏆 Kaggle Notebooks
+## 🏆 Kaggle
 -   [Optimizing Python Code: Time Performance Analysis](https://www.kaggle.com/code/agungpambudi/optimizing-python-code-time-performance-analysis)
 -   [Summarization](https://www.kaggle.com/code/agungpambudi/youtube-video-summarization-embeddings-gradio-ui)
 
