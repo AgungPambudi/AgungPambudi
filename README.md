@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-✈️ I love **traveling**.
+I love **traveling**.
 
 
 ## 📝 Games
